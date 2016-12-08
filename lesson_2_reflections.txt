@@ -1,3 +1,9 @@
 When I initialized I reposity using git init on my existing directory, git created a .git file which, among other things, allows 
 me to use all of the git tools on it, as well as allows git to track the changes in the revision history. It has to be done to 
 start using git on that directory, in much the same way that the firefox icon needs to be clicken on before I can use firefox
+
+The staging area is different from the working directory because, well, the working directory contains all your files, whereas
+the staging area contains <= all the files you have. The repository, on the other hand, is all the stuff you have
+
+We can use the staging area to make sure we have one commit per logical change because it allows us to only commit some files
+to the repository, instead of all of them in one fell swoop

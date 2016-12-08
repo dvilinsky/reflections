@@ -1,0 +1,24 @@
+Well, one benefit of using the fc command is that instead of having to hunt through the file for any possible change,
+it basically did that for me. The computer did all of the work instead of me. 
+
+I think having a version control system, or something that allows you to look at previous versions of the code 
+would be helpful because maybe I want to bring back an old feature, maybe I want to look at how I did something in the past.
+There are a lot of reasons. 
+
+Pros of manual commits: It allows you to decide what the logical breaks/cutoffs are in the development of the code. Additionally,
+it reduces the number of commits, so that your history isn't cluttered with a lot of minute commits that are hard to differentiate
+from one another.
+
+Cons: It's possible that your computer will crash before you commit, causing you to lose all of your work. 
+
+
+Obviously, you'd want to commit multiple files at once because often code in one file depends on code in another file. 
+
+We can use git log and git diff to view the history of commits because, well, git log literally gives us a list of all the commits
+ever in recorded history, and git diff tells us the differences between each commit
+
+Well, I know that if I break something, I can just sort of hit "undo." But I can do that with a text editor. So I'm not sure 
+what advantage git has here
+
+I want to actually use git to upload stuff to github. I want to create a reposity, and iteratively commit changes to the code 
+in it. I also want to learn how to pull from other people's work and edit it

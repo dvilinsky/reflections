@@ -7,3 +7,7 @@ the staging area contains <= all the files you have. The repository, on the othe
 
 We can use the staging area to make sure we have one commit per logical change because it allows us to only commit some files
 to the repository, instead of all of them in one fell swoop
+
+Branches are helpful when you want to manage multiple versions of your project at once. Maybe you're adding new features, maybe
+you're translating shit, but the point is you can change one version without changing others. This frees you from having to clone 
+your whole directory and make maybe ProjectV1, ProjectV2, etc folders.

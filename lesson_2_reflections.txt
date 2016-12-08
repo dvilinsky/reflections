@@ -1,0 +1,3 @@
+When I initialized I reposity using git init on my existing directory, git created a .git file which, among other things, allows 
+me to use all of the git tools on it, as well as allows git to track the changes in the revision history. It has to be done to 
+start using git on that directory, in much the same way that the firefox icon needs to be clicken on before I can use firefox

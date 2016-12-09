@@ -11,3 +11,7 @@ to the repository, instead of all of them in one fell swoop
 Branches are helpful when you want to manage multiple versions of your project at once. Maybe you're adding new features, maybe
 you're translating shit, but the point is you can change one version without changing others. This frees you from having to clone 
 your whole directory and make maybe ProjectV1, ProjectV2, etc folders.
+
+Much like drawing pictures of binary trees or linked lists help us when we're trying to visualize operations performed on those 
+data structures, drawing diagrams of branches helps us visualize where we are, what commits are reachable from where, and the 
+overall code structure

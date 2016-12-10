@@ -1,0 +1,1 @@
+You might want to create a file just on github and not on your local machine if you're working with other people and you're getting the file started for that but you don't necessarily need to or want to ahve it on your computer 

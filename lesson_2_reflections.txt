@@ -18,3 +18,6 @@ overall code structure
 
 Merge two brances A and B combines the changes you made in B into branch A, if branch B branced off of branch A. We represent it
 how we do in the diagram because that's literally drawing branches. 
+
+I'm not sure what the difference between automatic and manual merging is in the first place. Like, the command is still git merge
+but we might have to change a few things in the file we're merging manually. 

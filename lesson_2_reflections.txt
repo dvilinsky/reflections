@@ -15,3 +15,6 @@ your whole directory and make maybe ProjectV1, ProjectV2, etc folders.
 Much like drawing pictures of binary trees or linked lists help us when we're trying to visualize operations performed on those 
 data structures, drawing diagrams of branches helps us visualize where we are, what commits are reachable from where, and the 
 overall code structure
+
+Merge two brances A and B combines the changes you made in B into branch A, if branch B branced off of branch A. We represent it
+how we do in the diagram because that's literally drawing branches. 

@@ -4,3 +4,7 @@ You'd want to manually pull because, if you have multiple people working on a pr
 code to interfere with your own. If your code depends on some class that is in a certain state on your local version, and
 then someone on another machine updates that class such that it might interfere with your code, you wouldn't want git to make 
 that reflection automatically. 
+
+Let's start with branches. Branches allow you to work on different versions of your code on your local machine. 
+Clones and forks are related to each other. A clone copies a repository on github to your local machine. A fork clones a repository
+on github into another github repository. You'd use one instead of the other when you want to perform the actions listed. 

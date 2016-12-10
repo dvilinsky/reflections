@@ -1,1 +1,6 @@
 You might want to create a file just on github and not on your local machine if you're working with other people and you're getting the file started for that but you don't necessarily need to or want to ahve it on your computer 
+
+You'd want to manually pull because, if you have multiple people working on a project, you wouldn't want changes the make in thier
+code to interfere with your own. If your code depends on some class that is in a certain state on your local version, and
+then someone on another machine updates that class such that it might interfere with your code, you wouldn't want git to make 
+that reflection automatically. 

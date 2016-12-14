@@ -22,3 +22,5 @@ what advantage git has here
 
 I want to actually use git to upload stuff to github. I want to create a reposity, and iteratively commit changes to the code 
 in it. I also want to learn how to pull from other people's work and edit it
+
+Somore more changes

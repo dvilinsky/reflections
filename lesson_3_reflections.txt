@@ -10,4 +10,12 @@ Clones and forks are related to each other. A clone copies a repository on githu
 on github into another github repository. You'd use one instead of the other when you want to perform the actions listed.
 
 The benefit of having a local copy of the last known state of the remote copy is, well, so you can keep track of the history
-of the remote and see if any changes you're making are conflicting with them 
+of the remote and see if any changes you're making are conflicting with them.
+
+Without using git or Github to collaborate, I could use another version control system like google docs. We have our project
+directory, and we could each be working on our files, and then upload them to the directory when we're done, overwriting what
+was there. The problem would arise if we each want to work on the same file. I don't think google docs would tell us where the 
+conflicts were automatically. We might also not be able to rever to early changes as easily, and you can forget about branching.
+But it could be done. Or we could not use any sort of cloud service, and just keep local copies of our project. We could them 
+communicate what changes we're making to which files, and hash it all out by hand. That honestly wouldn't be too bad, in my 
+opinion.  
